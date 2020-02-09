@@ -1,6 +1,7 @@
 # Mini-project
 ## Voice feature extraction
 -----------Jatin the LEGEND BOI-----------
+Supposedly simple goal: Human voice features for clustering or extract human sound from mix
 #### A Novel Windowing Technique for Efficient Computation of MFCC for Speaker Recognition
 #### 10.1109/LSP.2012.2235067
 ##### Abstract:
