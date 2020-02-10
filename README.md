@@ -1,7 +1,9 @@
 # Mini-project
-## Voice feature extraction
------------Jatin the LEGEND BOI-----------
-Supposedly simple goal: Human voice features for clustering or extract human sound from mix
+## Human voice separation from a mixed source using feature extraction
+##### Abstract:
+Human voice feature targetting for clustering & extraction of sound from a mix of human and non-human sounds. Similar to audio cleaning techniques, time series based data is processed to obtain spectral features. We try and compare various Deep learning approaches, LSTMs, GMMs and classic techniques like Kalman filters. The main technique consists in grouping all the homogeneous speech segments obtained at the end of the segmentation process, by using the spatial information provided by the stereophonic speech. The Voxceleb1 dataset was used with manual processing of files to add background sounds and other human sounds using a combination of urban sounds dataset. Isolation approach may later be used for debate audio processing.
+
+## Reference papers
 #### A Novel Windowing Technique for Efficient Computation of MFCC for Speaker Recognition
 #### 10.1109/LSP.2012.2235067
 ##### Abstract:
